@@ -1,2 +1,2 @@
 # stepik_autotest_course
-stepik
+stepik first 
